@@ -3,7 +3,6 @@ This is a Predictive Maintenance System . It is being trained for any machine wi
 # Predictive Maintenance of Radar Hardware using Machine Learning
 
 Final Year Project — College of Aeronautical Engineering (CAE), NUST Risalpur
-Supervisor: Wg Cdr Fakhar Abbas | Sponsor: Directorate of Long Range Radar (LRR)
 
 ## Overview
 This project applies machine learning to predict maintenance needs of radar
