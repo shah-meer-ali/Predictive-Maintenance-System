@@ -33,4 +33,4 @@ benchmark) and integration of real sponsor maintenance records are next.
 ## Disclaimer
 Built and validated on public proxy datasets (Azure PdM, NASA C-MAPSS).
 Results reflect model methodology, not confirmed performance on classified
-radar hardware, pending real sponsor data.
+radar hardware, pending real data.
