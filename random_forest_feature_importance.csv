@@ -1,0 +1,6 @@
+Feature,Importance
+time_since_last_maintenance,0.8246332030082172
+time_since_last_failure,0.1366437856917745
+running_failure_rate,0.0254310951401197
+cumulative_failure_count,0.007793058713809837
+failure_interval_days,0.00549885744607883

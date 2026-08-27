@@ -1,0 +1,15 @@
+Feature,Importance
+error_count_24h,0.6471801532295168
+time_since_last_maintenance,0.3906774323162418
+volt_roll24_mean,0.03692829085573531
+vibration_roll24_mean,0.02938671008189575
+rotate_roll24_mean,0.024445417079421234
+pressure_roll24_mean,0.01708098112170679
+time_since_last_failure,0.005263489618705375
+failure_interval_days,0.002639526480699872
+pressure_roll24_std,0.00026717860095322915
+volt_roll24_std,0.00016983105873824567
+vibration_roll24_std,-3.376766772344997e-05
+rotate_roll24_std,-0.00024796519424319374
+cumulative_failure_count,-0.001398417009960055
+running_failure_rate,-0.0032666467176458713
